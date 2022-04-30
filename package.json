@@ -1,0 +1,20 @@
+{
+  "name": "sassy-styles",
+  "version": "0.0.1",
+  "description": "sass style utilities",
+  "private": false,
+  "main": "./index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obinasBaba/sassy-styles.git"
+  },
+  "author": "henzzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obinasBaba/sassy-styles/issues"
+  },
+  "homepage": "https://github.com/obinasBaba/sassy-styles#readme"
+}
